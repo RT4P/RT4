@@ -1,0 +1,28 @@
+body{
+	background-color: black;
+}
+
+#sticky_footer{
+	margin:auto;
+	background-color: #111;
+}
+
+#sticky_footer > p {
+	text-align: center;
+	color:grey;
+	vertical-align: center;
+}
+
+.container{
+	color: grey;
+	padding-top: 45px;
+}
+
+.greyLink{
+	color:grey;
+	text-decoration: underline;
+}
+
+h2{
+	text-decoration: bold;
+}
